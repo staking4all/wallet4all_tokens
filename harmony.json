@@ -14,5 +14,13 @@
         "decimals": 6,
         "id": "one10y76c0kyj6d9hmngf0859yx49l4c75d5z77zxr",
         "icon": "https://raw.githubusercontent.com/BitGuildPlatform/dapps/master/tron/trc20/TBwoSTyywvLrgjSgaatxrBhxt3DGpVuENh.png"
+    },
+    {
+        "name": "BUSD",
+        "symbol": "BUSD",
+        "type": "HRC20",
+        "decimals": 18,
+        "id": "one1u9mwheravgdesjnnqd4emfwcx3q3aae5hw36l2",
+        "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/4687.png"
     }
 ]
