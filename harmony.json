@@ -22,5 +22,29 @@
         "decimals": 18,
         "id": "one1u9mwheravgdesjnnqd4emfwcx3q3aae5hw36l2",
         "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/4687.png"
+    },
+    {
+        "name": "SEE",
+        "symbol": "SEE",
+        "type": "HRC20",
+        "decimals": 18,
+        "id": "one1073q9ldnkrktjag3nnp639dlkvgy4kngn2j086",
+        "icon": "https://github.com/kuyawa/seeswap/blob/master/src/public/assets/see.png"
+    },
+    {
+        "name": "ARANK",
+        "symbol": "ARANK",
+        "type": "HRC20",
+        "decimals": 18,
+        "id": "one1h5ttpvht2g9hla9yz4knvlhrtxkpn3f3f5lkgk",
+        "icon": "https://github.com/kuyawa/seeswap/blob/master/src/public/assets/arank.png"
+    },
+    {
+        "name": "Mintbes",
+        "symbol": "EUSK",
+        "type": "HRC20",
+        "decimals": 18,
+        "id": "one1sksamyvu6cz65t4dfvql7yvs2p9u4dsfnj2d38",
+        "icon": "https://github.com/kuyawa/seeswap/blob/master/src/public/assets/eusk.png"
     }
 ]
